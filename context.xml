@@ -33,5 +33,5 @@
 <ResourceLink auth="Container" global="jdbc/Oracle" name="jdbc/Oracle" type="javax.sql.DataSource"/>
 
 
-<ResourceLink auth="Container" global="jdbc/Mysql" name="jdbc/Oracle2" type="javax.sql.DataSource"/>
+<ResourceLink auth="Container" global="jdbc/Mysql" name="jdbc/Mysql" type="javax.sql.DataSource"/>
 </Context>
